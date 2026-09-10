@@ -39,7 +39,7 @@ The final Gold layer provides a business-oriented **Star Schema** that can serve
                 ┌───────────────────┐
                 │   Silver Layer    │
                 │                   │
-                │ Cleaned &          │
+                │ Cleaned &         │
                 │ Standardized Data │
                 └─────────┬─────────┘
                           │
